@@ -1,0 +1,17 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+
+    .col-1\/3 {
+        width: 33.33%;
+        padding: 0 20px;
+    }
+}
+
+img {
+    max-width: 100%;
+}
