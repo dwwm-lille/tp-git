@@ -1,0 +1,25 @@
+.col{
+    display: flex;
+    max-width: 100%;
+    justify-content: space-between;
+
+}
+
+
+.gauche{
+    color: white;
+    background-color: rgba(128, 128, 128, 0.515);
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
+
+.droite{
+    width: 50%;
+}
+
+
+img{
+    width: 600px;
+    height: 350px;
+}
